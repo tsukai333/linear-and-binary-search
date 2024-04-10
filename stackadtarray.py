@@ -70,7 +70,7 @@ class StackArray:
                 right = mid - 1
             else:
                 left = mid + 1
-        return print("kahit ano")
+        return print("Not Found")
 
     
     
